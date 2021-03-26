@@ -1,4 +1,4 @@
-/Users/christian/Documents/LiquidPrep/LightCommunication/target/2.0.1/argon//obj/./src/newlib_stubs.o: \
+/Users/christian/Documents/MorseCommunication/LightCommunication/target/2.0.1/argon//obj/./src/newlib_stubs.o: \
  src/newlib_stubs.cpp \
  ../../../modules/shared/nRF52840/inc/user-part/newlib_stubs.inc \
  /Users/christian/.particle/toolchains/gcc-arm/9.2.1/arm-none-eabi/include/sys/types.h \

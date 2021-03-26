@@ -1,4 +1,4 @@
-/Users/christian/Documents/LiquidPrep/LightCommunication/target/2.0.1/argon//obj/./src/module_info.o: \
+/Users/christian/Documents/MorseCommunication/LightCommunication/target/2.0.1/argon//obj/./src/module_info.o: \
  src/module_info.c ../../../dynalib/inc/module_info.inc \
  ../../../dynalib/inc/module_info.h ../../../services/inc/static_assert.h \
  /Users/christian/.particle/toolchains/gcc-arm/9.2.1/arm-none-eabi/include/assert.h \
