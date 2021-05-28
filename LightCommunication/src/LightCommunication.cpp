@@ -6,7 +6,7 @@
 #line 1 "/Users/christian/Documents/MorseCommunication/LightCommunication/src/LightCommunication.ino"
 /*
  * Project LightCommunication
- * Description: Uses a NeoPixel to send soil moisture data via morse code to a mobile app
+ * Description: Uses a NeoPixel to send soil moisture data via morse code to Morse Cam app for iOS
  * Author: Christian Chavez
  * Date: March 2021
  */
